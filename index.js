@@ -12,6 +12,8 @@ console.log(myObject);
 console.log(myObject.sumProperty);
 console.log(myObject.firstProperty[1]);
 
-
+//{firstProperty: [myBoolean, myString], sumProperty: 100}
+//100
+//hello world
 
 
